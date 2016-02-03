@@ -13,10 +13,10 @@
 .four-stars:before,
 .five-stars:before{
     font-family: FontAwesome;
-    left: 4px; //with this stars stays nice distance from text
+    left: 4px; /*with this stars stays nice distance from text*/
     position:absolute;
-    top: -2px; //this helps it to be on same level with text
-	  color:#ffcc00; //hey, pure gold!
+    top: -2px; /*this helps it to be on same level with text*/
+    color:#ffcc00; /*hey, pure gold!*/
 }
 
 /*and following is the main thing: how many stars (or whatever) you want. Full list of font awesome content values ca be found here: http://astronautweb.co/snippet/font-awesome/*/
